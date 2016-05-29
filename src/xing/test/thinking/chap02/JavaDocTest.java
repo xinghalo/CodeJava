@@ -1,4 +1,4 @@
-package xing.test.thinking.chap2;
+package xing.test.thinking.chap02;
 /**
  * {@inheritDoc}
  * 
@@ -9,7 +9,7 @@ class ClassC extends ClassB{
 	
 }
 /**
- * 测试link  {@link xing.test.thinking.chap2.ClassA#test() ClassA}<br>
+ * 测试link  {@link xing.test.thinking.chap02.ClassA#test() ClassA}<br>
  * 文档路径：{@docRoot}<br>
  * 
  * 

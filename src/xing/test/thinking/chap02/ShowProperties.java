@@ -1,4 +1,4 @@
-package xing.test.thinking.chap2;
+package xing.test.thinking.chap02;
 /**
  * 
  * 测试于16.05.10

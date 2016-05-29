@@ -1,4 +1,4 @@
-package xing.test.thinking.chap5;
+package xing.test.thinking.chap05;
 
 class Book {
 	boolean chechedOut = false;

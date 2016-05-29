@@ -1,4 +1,4 @@
-package xing.test.thinking.chap8;
+package xing.test.thinking.chap08;
 class A{
 	public A() {
 		System.out.println("A");

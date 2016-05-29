@@ -1,4 +1,4 @@
-package xing.test.thinking.chap7;
+package xing.test.thinking.chap07;
 class A3{
 	B3 b3 = new B3();
 	static C3 c4 = new C3();

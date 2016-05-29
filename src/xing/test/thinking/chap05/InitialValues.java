@@ -1,4 +1,4 @@
-package xing.test.thinking.chap5;
+package xing.test.thinking.chap05;
 
 public class InitialValues {
 	boolean t;

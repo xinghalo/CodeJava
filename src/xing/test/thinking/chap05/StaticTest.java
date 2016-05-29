@@ -1,4 +1,4 @@
-package xing.test.thinking.chap5;
+package xing.test.thinking.chap05;
 class A{
 	public A() {
 		System.out.println("A constructor");

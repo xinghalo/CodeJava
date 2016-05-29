@@ -1,4 +1,4 @@
-package xing.test.thinking.chap8;
+package xing.test.thinking.chap08;
 class Super{
 	public int field = 0;
 	public int getField(){

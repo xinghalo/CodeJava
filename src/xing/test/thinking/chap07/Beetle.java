@@ -1,4 +1,4 @@
-package xing.test.thinking.chap7;
+package xing.test.thinking.chap07;
 class Insect{
 	private int i = 9;
 	protected int j;

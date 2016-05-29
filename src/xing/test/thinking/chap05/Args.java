@@ -1,4 +1,4 @@
-package xing.test.thinking.chap5;
+package xing.test.thinking.chap05;
 
 public class Args {
 	static void f(String i,Character ... args){

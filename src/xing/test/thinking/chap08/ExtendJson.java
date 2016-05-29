@@ -1,4 +1,4 @@
-package xing.test.thinking.chap8;
+package xing.test.thinking.chap08;
 
 import com.alibaba.fastjson.JSON;
 

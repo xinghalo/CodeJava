@@ -1,4 +1,4 @@
-package xing.test.thinking.chap7;
+package xing.test.thinking.chap07;
 class A{
 	static{
 		System.out.println("A static");

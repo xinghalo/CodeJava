@@ -1,4 +1,4 @@
-package xing.test.thinking.chap6;
+package xing.test.thinking.chap06;
 
 class Soup1{
 	private Soup1(){}

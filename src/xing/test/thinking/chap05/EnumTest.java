@@ -1,4 +1,4 @@
-package xing.test.thinking.chap5;
+package xing.test.thinking.chap05;
 
 enum Test{
 	A,B,C,D,E

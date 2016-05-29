@@ -1,4 +1,4 @@
-package xing.test.thinking.chap7;
+package xing.test.thinking.chap07;
 class Soap{
 	private String s;
 	Soap(){
