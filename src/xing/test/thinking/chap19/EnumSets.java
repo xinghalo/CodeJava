@@ -3,7 +3,7 @@ package xing.test.thinking.chap19;
 import java.util.EnumMap;
 import java.util.EnumSet;
 import java.util.Map;
-
+//test
 enum AlarmPoints {
 	STAIR1,STAIR2,LOBBY,OFFICE1,OFFICE2,OFFICE3,OFFICE4,BATHROOM,UTILITY,KITCHEN
 }
