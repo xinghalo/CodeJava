@@ -53,6 +53,7 @@ public class CarWash {
 	public String toString(){
 		return cycles.toString();
 	}
+	//test
 	public static void main(String[] args) {
 		CarWash wash = new CarWash();
 		System.out.println(wash);
