@@ -1,6 +1,6 @@
 package xing.test.thinking.chap12;
 
-import org.eclipse.jdt.internal.compiler.batch.Main;
+//import org.eclipse.jdt.internal.compiler.batch.Main;
 /**
  * 异常丢失
  * 
