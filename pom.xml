@@ -14,7 +14,7 @@
       <artifactId>javax.servlet-api</artifactId>
       <version>4.0.0-b01</version>
     </dependency>
-    <!-- springframework begins -->
+    <!-- springframework begins  -->
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-webmvc</artifactId>
@@ -80,7 +80,22 @@
       <artifactId>hadoop-hdfs</artifactId>
       <version>2.6.2</version>
     </dependency>
-
+    <dependency>
+      <groupId>org.mybatis</groupId>
+      <artifactId>mybatis</artifactId>
+      <version>3.2.2</version>
+    </dependency>
+    <dependency>
+      <groupId>mysql</groupId>
+      <artifactId>mysql-connector-java</artifactId>
+      <version>5.1.22</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>RELEASE</version>
+    </dependency>
   </dependencies>
 
   <build>
