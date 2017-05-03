@@ -9,11 +9,37 @@
 	<packaging>war</packaging>
 
 	<dependencies>
+		<!-- spark 相关 -->
+		<dependency>
+			<groupId>org.apache.spark</groupId>
+			<artifactId>spark-core_2.10</artifactId>
+			<version>1.6.0-cdh5.7.2</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.apache.spark</groupId>
+			<artifactId>spark-sql_2.10</artifactId>
+			<version>1.6.0-cdh5.7.2</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.apache.spark</groupId>
+			<artifactId>spark-streaming-kafka_2.10</artifactId>
+			<version>1.6.0-cdh5.7.2</version>
+		</dependency>
+
+		<!--<dependency>
+			<groupId>org.elasticsearch</groupId>
+			<artifactId>elasticsearch-spark_2.10</artifactId>
+			<version>1.6.0-cdh5.7.2</version>
+		</dependency>
+
 		<dependency>
 			<groupId>org.elasticsearch</groupId>
 			<artifactId>elasticsearch</artifactId>
 			<version>2.4.0</version>
-		</dependency>
+		</dependency>-->
+
 		<dependency>
 			<groupId>com.oracle</groupId>
 			<artifactId>ojdbc14</artifactId>
@@ -122,6 +148,11 @@
 			<groupId>org.apache.thrift</groupId>
 			<artifactId>libthrift</artifactId>
 			<version>0.9.3</version>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.spark</groupId>
+			<artifactId>spark-streaming_2.10</artifactId>
+			<version>1.6.0</version>
 		</dependency>
 	</dependencies>
 
